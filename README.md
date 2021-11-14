@@ -12,3 +12,6 @@ As mentioned in the previous exercise, rows are nested within containers. Also, 
 ```
 
 Let’s now add some rows to our web page!
+
+## Take a look at the live example here:
+https://bucheli-web-development-bootstrap-course-rows.netlify.app/
